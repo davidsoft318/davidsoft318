@@ -1,10 +1,14 @@
 ### Hi there 👋
 
 ### Who is this?
-### I’m a full-stack blockchain and web developer with 7+ years of experience.
-### Spent multiple years building up blockchain infrastructure for several organizations with combined experience in Defi, NFT.
-### A quick learner, hardworking, committed team player, proactive self-starter, resourceful manager and capable of handling stressful conditions.
-### Feel free to contact to me anytime.
+
+I’m a full-stack blockchain and web developer with 7+ years of experience.
+
+Spent multiple years building up blockchain infrastructure for several organizations with combined experience in Defi, NFT.
+
+A quick learner, hardworking, committed team player, proactive self-starter, resourceful manager and capable of handling stressful conditions.
+
+Feel free to contact to me anytime.
 
 ### Programming Languages 
 <table style="border-size:0px">
