@@ -2,7 +2,7 @@
 
 ### Who is this?
 
-😎  I’m a full-stack blockchain and web developer with 7+ years of experience.
+😎  I’m a full-stack blockchain and web developer with 10+ years of experience.
 
 🔭  Spent multiple years building up blockchain infrastructure for several organizations with combined experience in Defi, NFT.
 
