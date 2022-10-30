@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://github.com/davidsoft318"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior Full-Stack Engineer;Senior Web3 Developer;Smart Contract EngineerAlways%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=davidsoft318&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsoft318&layout=compact&theme=monokai&count_private=true">
-<img height="150px" />
-
 ### Hi there 👋
 
 ### Who is this?
@@ -33,3 +25,8 @@ Feel free to contact to me anytime.
 - [TypeScript](https://www.typescriptlang.org/)
 - [Solidity](https://soliditylang.org/)
 - [Rust](https://www.rust-lang.org/)
+
+<h1 align="center"></h1>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=davidsoft318&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsoft318&layout=compact&theme=monokai&count_private=true">
+<img height="150px" />
