@@ -11,11 +11,6 @@ Recently I have involved in blockchain projects that are for Smart Contract, NFT
 
 Feel free to contact to me anytime.
 
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=davidsoft318&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsoft318&layout=compact&theme=monokai&count_private=true">
-<img height="150px" />
-
 ### 🛠 &nbsp;Tech Stack
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -29,13 +24,13 @@ Feel free to contact to me anytime.
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
-
-<!----[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true&theme=radical)-->
- 
-<!--  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true&theme=radical) 
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=top1st&show_icons=true&theme=radical&langs_count=14&layout=compact&hide=html,php,css,javascript)  -->
  <br/> <br/>
-  ![Profile views](https://gpvc.arturio.dev/top1st)  
+  ![Profile views](https://gpvc.arturio.dev/davidsoft318)  
+  
+<h1 align="center"></h1>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=davidsoft318&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsoft318&layout=compact&theme=monokai&count_private=true">
+<img height="150px" />  
 
 ### Contact me:
 
