@@ -31,6 +31,8 @@ Feel free to contact to me anytime.
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsoft318&layout=compact&theme=monokai&count_private=true">
 <img height="150px" /> 
 <br />
+<br />
+<br />
 
 ### Contact me: 
 
