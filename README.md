@@ -2,7 +2,8 @@
 
 ### Who is this?
 
-😎  I’m a full-stack blockchain and web developer with 10+ years of experience.
+😎  I’m a full-stack blockchain and web developer with 10+ years of experience. I have rich experience about JavaScript Frameworks, libraries.
+Recently I have involved in blockchain projects that are for Smart Contract, NFT, DEFI, DEX and also smart contract integration to frontend using web3 and I have made very many online casinos, sports betting websites using Node.js, React.js MongoDB.
 
 🔭  Spent multiple years building up blockchain infrastructure for several organizations with combined experience in Defi, NFT.
 
