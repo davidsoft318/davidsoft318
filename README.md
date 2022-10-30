@@ -25,13 +25,12 @@ Feel free to contact to me anytime.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
  <br/> <br/>
-  ![Profile views](https://gpvc.arturio.dev/davidsoft318)  
   
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=davidsoft318&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsoft318&layout=compact&theme=monokai&count_private=true">
 <img height="150px" />  
-
+ <br/> <br/>
 ### Contact me:
 
 [![telegram](https://user-images.githubusercontent.com/23559697/168880880-31e2979b-c077-4dbb-9c89-40e39e657080.png)](https://t.me/DavidKoller318)
