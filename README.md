@@ -10,6 +10,12 @@
     <img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/>
   </a>
 </h1>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=smartcoder0926.smartcoder0926" />
+<img align="right" src="https://img.shields.io/github/followers/smartcoder0926?label=Follow&style=social" />
+<h1 align="center"></h1>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=smartcoder0926&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartcoder0926&layout=compact&theme=monokai&count_private=true">
+<img height="150px" />
 
 ### Hi there 👋
 
