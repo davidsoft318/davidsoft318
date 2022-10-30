@@ -10,23 +10,34 @@
 
 Feel free to contact to me anytime.
 
-### Programming Languages 
-<table style="border-size:0px">
-  <tr >   
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="90"> React</td>
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="90"> Node.js</td>
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="60"> TypeScript</td>
-    <td style="border: none;"><img class="lazy" src="https://banner2.cleanpng.com/20180411/kjq/kisspng-solidity-ethereum-blockchain-smart-contract-progra-blockchain-5ace81fe0c9514.6143250015234831340515.jpg" width="60"> Solidity </td>
-  </tr>
-</table>
-
-- [React](https://reactjs.org/) 
-- [Javascript](https://www.javascript.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Solidity](https://soliditylang.org/)
-- [Rust](https://www.rust-lang.org/)
-
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=davidsoft318&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsoft318&layout=compact&theme=monokai&count_private=true">
 <img height="150px" />
+
+### 🛠 &nbsp;Tech Stack
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
+![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<br />
+
+<!----[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true&theme=radical)-->
+ 
+<!--  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true&theme=radical) 
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=top1st&show_icons=true&theme=radical&langs_count=14&layout=compact&hide=html,php,css,javascript)  -->
+ <br/> <br/>
+  ![Profile views](https://gpvc.arturio.dev/top1st)  
+
+### Contact me:
+
+[![telegram](https://user-images.githubusercontent.com/23559697/168880880-31e2979b-c077-4dbb-9c89-40e39e657080.png)](https://t.me/DavidKoller318)
+[![discord](https://user-images.githubusercontent.com/23559697/168879714-bf64acf3-48c9-4c8c-8507-fbbb7bf07481.png)](https://discordapp.com/users/450483984112025610)
+[![skype](https://user-images.githubusercontent.com/23559697/168881725-6f9ddf34-7dfa-4820-9ae9-863353928596.png)](https://join.skype.com/invite/cdo8rRkZcFD7)
