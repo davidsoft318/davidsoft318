@@ -2,8 +2,9 @@
 
 ### Who is this?
 
-😎  I’m a full-stack blockchain and web developer with 10+ years of experience. I have rich experience about JavaScript Frameworks, libraries.
-Recently I have involved in blockchain projects that are for Smart Contract, NFT, DEFI, DEX and also smart contract integration to frontend using web3 and I have made very many online casinos, sports betting websites using Node.js, React.js MongoDB.
+😎  I’m a full-stack blockchain and web developer with 10+ years of experience. 
+I have rich experience about JavaScript Frameworks, libraries.
+Recently I have worked , NFT, DEFI, DEX and also smart contract integration to frontend using web3 and I have made very many online casinos, sports betting websites using Node.js, React.js MongoDB.
 
 🔭  Spent multiple years building up blockchain infrastructure for several organizations with combined experience in Defi, NFT.
 
@@ -24,12 +25,14 @@ Feel free to contact to me anytime.
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
+
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=davidsoft318&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsoft318&layout=compact&theme=monokai&count_private=true">
 <img height="150px" />  
 <br/> <br/>
-
+<br/> <br/>
+<br/> <br/>
 ### Contact me:
 
 [![telegram](https://user-images.githubusercontent.com/23559697/168880880-31e2979b-c077-4dbb-9c89-40e39e657080.png)](https://t.me/DavidKoller318)
