@@ -30,9 +30,7 @@ Feel free to contact to me anytime.
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=davidsoft318&show_icons=true&theme=merko&count_private=true" />
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsoft318&layout=compact&theme=monokai&count_private=true">
 <img height="150px" /> 
-<br />
-<br />
-<br />
+<img width="150px" height="150px" /> 
 <br />
 
 ### Contact me: 
